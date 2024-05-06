@@ -1,7 +1,6 @@
 # app-dev
 My first repository
-# H1 
-Naruto
+# My favorite series is Naruto Shippuden
 
 **Detective Conan**
 *Slamdunk*
